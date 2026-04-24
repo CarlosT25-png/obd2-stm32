@@ -22,8 +22,9 @@ In order to have the full project make sure to check the following repositories.
 - Jumper Wires
 ## Screenshots
 
-![App Screenshot](https://dummyimage.com/468x300?text=App+Screenshot+Here)
-
+![GIF](https://github.com/CarlosT25-png/obd2-stm32/blob/main/docs/OBD2-MCU.gif?raw=true)
+![Screenshot of the app](https://github.com/CarlosT25-png/obd2-stm32/blob/main/docs/screenshot-app.PNG?raw=true)
+![Diagram](https://github.com/CarlosT25-png/obd2-stm32/blob/main/docs/diagram.JPEG?raw=true)
 
 ## Authors
 
